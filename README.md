@@ -1,4 +1,3 @@
-# nayan-client
 # E-commerce Website (Flask)
 
 This is an E-commerce website built with Flask, where users can browse products, add items to the cart, and proceed with the checkout. Admin users can manage products, view user activity, and perform updates or removals. The website is designed to be user-friendly with an attractive and responsive layout using Bootstrap.
